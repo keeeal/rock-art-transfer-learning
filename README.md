@@ -120,4 +120,4 @@ All source code is made available under a BSD 3-clause license. You may freely u
 
 ## Citation
 
- > Jarrad Kowlessar, James Keal, Daryl Wesley, Ian Moffat, Dudley Lawrence, Abraham Weson, Alfred Nayinggul & Mimal Land Management Aboriginal Corporation. "Reconstructing rock art chronology with transfer learning: A case study from Arnhem Land, Australia, Australian Archaeology", Australian Archeology, 2021, DOI: 10.1080/03122417.2021.1895481
+ > Jarrad Kowlessar, James Keal, Daryl Wesley, Ian Moffat, Dudley Lawrence, Abraham Weson, Alfred Nayinggul & Mimal Land Management Aboriginal Corporation. "Reconstructing rock art chronology with transfer learning: A case study from Arnhem Land, Australia", Australian Archaeology, 2021, DOI: 10.1080/03122417.2021.1895481
